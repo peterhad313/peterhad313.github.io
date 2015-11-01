@@ -113,22 +113,3 @@ div.caption{
     position: absolute;
     width: 100%;
 }
-
-.btn {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(0, 0, 0, 1);
-  background-color: rgba(180, 180, 180, 0.7);
-  border-color: rgba(0, 0, 0, 1);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
-  .btn + .btn {
-    margin-left: 1rem; }
-
-.btn:hover {
-  color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  background-color: rgba(0, 0, 0, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
