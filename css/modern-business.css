@@ -95,7 +95,7 @@ footer {
 
 /* PETERS STUFF */
 .navbar-brand {
-    font-size: 24px;
+    font-size: 30px;
     /*color: red;*/
 }
 
@@ -132,3 +132,7 @@ div.caption{
   text-decoration: none;
   background-color: rgba(0, 0, 0, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
+
+figure figcaption {
+    text-align: center;
+}
